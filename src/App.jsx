@@ -126,11 +126,6 @@ export default function App() {
           </table>
         </div>
       )}
-      <footer>
-        <span>
-          &copy; {new Date().getFullYear()} Quiz Extractor | Mobile &amp; Desktop Friendly
-        </span>
-      </footer>
     </div>
   );
 }
